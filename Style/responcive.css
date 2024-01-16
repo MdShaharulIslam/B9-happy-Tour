@@ -67,6 +67,9 @@
     width: 90%;
   }
 
+  .fedback-section-container{flex-direction: column
+    ;}
+    .fedback{width: 100%;}
   .contact-container {
     flex-direction: column;
   }

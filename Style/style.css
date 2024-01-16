@@ -364,7 +364,21 @@ gap: 10px;}
   border: 0;
   margin: 20px 350px;
 }
-/*  */
+/* fedback  */
+.fedback-sactiion{
+  width: 80%;
+  margin: 20px auto;
+}
+.fedback-section-container{display: flex;
+gap: 15px;
+justify-content: center;}
+.fedback{width: 40%;
+background: #d4c6c0;
+padding: 10px;
+border-radius: 8px;
+}
+
+/* fedback  */
 
 
 
