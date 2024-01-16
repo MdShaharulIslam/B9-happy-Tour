@@ -335,7 +335,8 @@ body {
   font-size: 1.25rem;
   font-weight: 800
 }
-
+.discount-card-2{display: flex;
+gap: 10px;}
 .time {
   color: #5a5a5d;
   font-weight: 400;
